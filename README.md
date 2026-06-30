@@ -1,2 +1,2 @@
-# sitetest.com
-testing to see if github sites work
+# Site Test 101
+testing to see if GitHub sites work
